@@ -14,5 +14,5 @@ Start learning Snowflake
 Continue working Snowflake
 Start learning Apache Spark
 # 4/26/23
-Familiarity with Snowflake and Apache Spark
+Familiarity with Snowflake and Apache Spark  
 [Weekly breakdown](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/)
