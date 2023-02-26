@@ -15,3 +15,4 @@ Continue working Snowflake
 Start learning Apache Spark
 # 4/26/23
 Familiarity with Snowflake and Apache Spark
+[Weekly breakdown](https://www.example.com)
