@@ -19,5 +19,7 @@ On this day after taking a break and reviewing some SQL I started working on lea
 I watched some videos including one by an amazing professor who does great work with Genomic Data Analysis and Web Scraping. This increased my overall comprehension of Map Reduce.  
 Bloopers for the week  
 The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application  
-![Poor performance on laptop](3-6Thisisgettingfrustrating.png)  
-
+Konsole  
+![Konsole failing to reach Docker Conatiner](3-6Thisisgettingfrustrating.png)  
+Docker Desktop Terminal  
+![Docker Desktop Terminal becoming the new default](3-6DockerDesktop.png)
