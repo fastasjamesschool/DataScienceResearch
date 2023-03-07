@@ -1,4 +1,4 @@
-# Weeks 2/22/23 to 3/6/23
+# Biweekly 2/22/23 to 3/6/23
 ## 2/26
 On this day I worked on re-doing the install on my system
 Modifications done to Docker system resources including increasing ram, cpu cores, and capping the max amount of storage used
@@ -23,7 +23,7 @@ I imported frankenstein the book which looked like this.
 I also renamed it as a txt file for good practice and did this inside of the docker instead of using Hue.  
 ![Renaming Frankenstein](Frankensteinprep.png)  
 I then imported the mapping and reducing python scripts that would work with hadoop.  
-![Konsole failing to reach Docker Conatiner](MapperandReducer.png)
+![Konsole failing to reach Docker Conatiner](MapperandReducer.png)  
 Here is the link to the Mapper and Reduce script provided by Dr.Dancik
 [Mapper](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/)  
 Bloopers for the week  
