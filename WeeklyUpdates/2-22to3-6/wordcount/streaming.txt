@@ -1,0 +1,13 @@
+hadoop jar /usr/jars/hadoop-streaming-2.6.0-cdh5.7.0.jar \
+-mapper "python3.4 $PWD/mapper.py" \
+-reducer "python3.4 $PWD/reducer.py" \
+-input "/user/cloudera/Frankenstein.txt" \
+-output "/user/cloudera/map/output/"
+
+hadoop jar /usr/jars/hadoop-streaming-2.6.0-cdh5.7.0.jar \
+-mapper "python3.4 /home/cloudera/map/mapper.py" \
+-reducer "python3.4 /home/cloudera/map/reducer.py" \
+-input "/user/cloudera/Frankenstein.txt" \
+-output "/user/cloudera/map/output/"
+
+docker cp Desktop/DataSciResearchpage/DataScienceResearch/WeeklyUpdates/2-22to3-6/wordcount/reducer.py reverent_yonath:/home/cloudera/

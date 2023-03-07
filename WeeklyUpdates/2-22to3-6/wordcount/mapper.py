@@ -6,6 +6,7 @@ import sys
 
 # get input from standard input, STDIN, one line at a time
 for line in sys.stdin:
+    print(line)
     line = line.strip() #remove leading and trailing whitespaces
     words = line.split() #split the line into words and returns as a list
     for word in words:
