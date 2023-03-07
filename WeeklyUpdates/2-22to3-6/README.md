@@ -13,8 +13,7 @@ To attempt to determine what issues are because of my computer and which ones ar
 This took 3 days after Docker not working led me down a rabbit hole to troubleshoot.  
 I ended up realizing that docker requires virtualization, so I needed to enable nested virtualization in-order to properly run docker.  
 I was able to conclude that the system on my laptop is mostly to fault other than one service that runs a db in the background might not run optimally.  
-
-## 3/6
+## 3/6-3/7  
 On this day after taking a break and reviewing some SQL I started working on learning MapReduce.  
 I watched some videos including one by an amazing professor who does great work with Genomic Data Analysis and Web Scraping. This increased my overall comprehension of Map Reduce.  
 I then decided to use an example supplied to me that would count the amount of words and each occurence. This would demonstrate the Mapping out as it would be split across multiple nodes in the cluster, and the reducer where it takes the output of each mapper and reduces it to a reasonable result.
