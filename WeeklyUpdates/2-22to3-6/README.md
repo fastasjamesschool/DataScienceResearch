@@ -25,7 +25,7 @@ I also renamed it as a txt file for good practice and did this inside of the doc
 I then imported the mapping and reducing python scripts that would work with hadoop.  
 ![Konsole failing to reach Docker Conatiner](MapperandReducer.png)
 Here is the link to the Mapper and Reduce script provided by Dr.Dancik
-[Mapper](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/)
+[Mapper](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/)  
 Bloopers for the week  
 The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application.  
 Konsole  
