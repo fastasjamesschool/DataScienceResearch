@@ -17,8 +17,17 @@ I was able to conclude that the system on my laptop is mostly to fault other tha
 ## 3/6
 On this day after taking a break and reviewing some SQL I started working on learning MapReduce.  
 I watched some videos including one by an amazing professor who does great work with Genomic Data Analysis and Web Scraping. This increased my overall comprehension of Map Reduce.  
+I then decided to use an example supplied to me that would count the amount of words and each occurence. This would demonstrate the Mapping out as it would be split across multiple nodes in the cluster, and the reducer where it takes the output of each mapper and reduces it to a reasonable result.
+I imported frankenstein the book which looked like this.  
+![Saving Frankenstein](SavingFrankenstein.png)  
+I also renamed it as a txt file for good practice and did this inside of the docker instead of using Hue.  
+![Renaming Frankenstein](Frankensteinprep.png)  
+I then imported the mapping and reducing python scripts that would work with hadoop.  
+![Konsole failing to reach Docker Conatiner](MapperandReducer.png)
+Here is the link to the Mapper and Reduce script provided by Dr.Dancik
+[Mapper](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/)
 Bloopers for the week  
-The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application  
+The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application.  
 Konsole  
 ![Konsole failing to reach Docker Conatiner](3-6Thisisgettingfrustrating.png)  
 Docker Desktop Terminal  
