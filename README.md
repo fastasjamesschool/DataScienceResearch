@@ -4,7 +4,7 @@ Over this semester I will expand my skill set to be better suited for the positi
 Here are the current goals set
 # 2/22/23
 Familiarity with Docker, Hadoop, HDFS
-# 3/08/23   
+# [3/08/23] (#https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/2-22to3-6/)   
 Learn MapReduce and use with Hadoop  
 ~~Familiarity with MYSQL~~  
 ~~Start learning MongoDB~~  

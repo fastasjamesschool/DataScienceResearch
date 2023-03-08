@@ -31,8 +31,7 @@ I spent alot of time working on this trying to determine where I had gone wrong.
 Eventually I pulled Dr.Dancik in to help me determine what was wrong with the file.
 I was feeding the system the Frankenstein text from Guttenberg press which said it was utf-8 encoded. The file although it told the system it was utf-8 it had characters that were not utf-8. So to fix this we sorted through found all of the special characters, and altered them to properly categorize the words.  
 This worked and output this file
-# [Output.](#https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/part-00000)  
-
+[Output.](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/part-00000)  
 Now that it works I will explain what happens here.  
 This is a general explanation of MapReduce.  
 The hadoop streaming jar will split the job up and use the mapper.py to count the amount of times each word occured, per the part of the text it was fed. Reducer then merges all of the words and counts the amount of occurences.  
