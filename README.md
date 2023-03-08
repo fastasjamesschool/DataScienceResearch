@@ -5,8 +5,9 @@ Here are the current goals set
 # 2/22/23
 Familiarity with Docker, Hadoop, HDFS
 # 3/08/23
-Familiarity with MYSQL
-Start learning MongoDB
+Learn MapReduce and use with Hadoop
+~~Familiarity with MYSQL~~
+~~Start learning MongoDB~~
 # 3/29/23
 Familiarity with MongoDB
 Start learning Snowflake
