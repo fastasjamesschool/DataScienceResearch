@@ -4,6 +4,8 @@
 
 import sys
 
+print("starting mapper")
+
 # get input from standard input, STDIN, one line at a time
 for line in sys.stdin:
     print(line)

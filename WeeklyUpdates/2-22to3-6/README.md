@@ -25,6 +25,14 @@ I then imported the mapping and reducing python scripts that would work with had
 ![Konsole failing to reach Docker Conatiner](MapperandReducer.png)  
 Here is the link to the Mapper and Reduce script provided by Dr.Dancik
 [Mapper](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/)  
+This is where I hit a wall. 
+[Wall](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/Error1 with Hadoop Streaming.png)
+I spent alot of time working on this trying to determine where I had gone wrong. I tried a default test file that ran through fine so it wasn't the mapper or reducer, but something with the encoding on the text file.
+Eventually I pulled Dr.Dancik in to help me determine what was wrong with the file.
+I was feeding the system the Frankenstein text from Guttenberg press which said it was utf-8 encoded. The file although it told the system it was utf-8 it had characters that were not utf-8. So to fix this we sorted through found all of the special characters, and altered them to properly categorize the words.  
+This worked and output this file
+[Output](https://github.com/fastasjamesschool/DataScienceResearch/blob/main/WeeklyUpdates/2-22to3-6/wordcount/part-00000)
+After working 
 Bloopers for the week  
 The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application.  
 Konsole  
