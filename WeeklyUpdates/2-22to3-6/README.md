@@ -35,7 +35,7 @@ This worked and output this file
 Now that it works I will explain what happens here
 This is a general explanation of MapReduce
 The hadoop streaming jar will split the job up and use the mapper.py to count the amount of times each word occured, per the part of the text it was fed. Reducer then merges all of the words and counts the amount of occurences.  
-Bloopers for the week  
+## Bloopers for the week  
 The docker container stoped responding to console commands so from this point onwards I used the terminal integrated with the docker desktop application.  
 Konsole  
 ![Konsole failing to reach Docker Conatiner](3-6Thisisgettingfrustrating.png)  
