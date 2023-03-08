@@ -41,4 +41,4 @@ Konsole
 ![Konsole failing to reach Docker Conatiner](3-6Thisisgettingfrustrating.png)  
 Docker Desktop Terminal  
 ![Docker Desktop Terminal becoming the new default](3-6DockerDesktop.png)  
-Another solution to this was provided by Dr.Dancik using this code `docker exec -it bb bash` which will attach execute and attach bash on the container.
+Another solution to this was provided by Dr.Dancik using this code `docker exec -it bb bash` which will attach execute and attach bash on the container.  
