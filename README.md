@@ -12,7 +12,7 @@ Learn MapReduce and use with Hadoop
 # 3/22/23
 Familiarity with MongoDB  
 Start learning Snowflake
-[Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/2-8to3-22/)
+[Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/3-8to3-22/)
 # 4/05/23
 Continue working Snowflake
 Start learning Apache Spark
