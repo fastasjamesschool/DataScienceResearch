@@ -8,7 +8,7 @@ Familiarity with Docker, Hadoop, HDFS
 Learn MapReduce and use with Hadoop  
 ~~Familiarity with MYSQL~~  
 ~~Start learning MongoDB~~  
-[Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/2-22to3-6/)
+[Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/2-22to3-8/)
 # 3/22/23
 Familiarity with MongoDB  
 Start learning Snowflake
