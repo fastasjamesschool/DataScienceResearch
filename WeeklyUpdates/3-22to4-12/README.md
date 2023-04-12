@@ -47,3 +47,14 @@ db.collection.findOne()
 ## Search for objects meeting certain criteria
 
 db.collection.find( {title: "Testing 1"})
+
+## 4/1/23 - 4/12/23
+After starting to learn how to use NoSQL by reading documentation, I decided to start taking a course to learn it instead of reading the documentation like I have been. Below I have added the new commands I've learned along with an explanation. After this is done, I will create a full cheatsheet attached to a link here.
+
+## DB Commands
+## Database currently being used
+db
+## Databases available
+show dbs
+## Switch Database
+use (target_DB)
