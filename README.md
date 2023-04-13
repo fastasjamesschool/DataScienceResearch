@@ -17,6 +17,8 @@ Continue working with MongoDb
 Start learning Apache Spark  
 [Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/3-22to4-12/)
 # 4/19/23
-Familiarity with Snowflake and Apache Spark
+MongoDB Project  
+[Log](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/4-12to4-19/) 
 # 5/03/23  
-[Weekly breakdown](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/)
+Familiarity with Apache Spark  
+## [Weekly breakdown](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/)
