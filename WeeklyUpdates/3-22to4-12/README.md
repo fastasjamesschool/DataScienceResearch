@@ -1,7 +1,7 @@
 # Biweekly 3/22/23 to 4/12/23
 ## 3/29/23 - 4/1/23
 On this day I started to work on utilizing the DB that had been setup.  
-This process involed finding some utility out of this DB.
+This process involved finding some utility out of this DB.
 Projects I considered included web scraping a webpage and inserting what I find into the DB, but I determined this would be too complex and take more time than available.  
 I decided to take things one step at a time by messing around with MongoDB to see what I was capable of doing, and what I still needed to learn. I attached the files where I created a collection
 [Work](https://fastasjamesschool.github.io/DataScienceResearch/WeeklyUpdates/3-22to4-12/README.md)  
